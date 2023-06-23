@@ -37,3 +37,7 @@ You will conduct a comparison of music preferences between the cities of Springf
 2-On Monday mornings, Springfield and Shelbyville residents listen to different genres. This is also true for Friday evenings.
 
 3-Springfield and Shelbyville listeners have different preferences. In Springfield, they prefer pop, while Shelbyville has more rap fans.
+
+## Libraries used
+*pandas*
+

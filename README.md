@@ -25,3 +25,6 @@ The provided dataset includes song tracks along with details such as the artist,
  | City       | user's city |  objective    |
  | time     |  the exact time the track was played | objective     |
  | Day      | day of the week | objective    |
+
+ ## Task
+

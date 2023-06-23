@@ -12,3 +12,16 @@ Project involves:
 1. Data preprocessing
 2. Pandas for Data Analysis
 3. Analyzing Data and Presenting Result
+
+
+The provided dataset includes song tracks along with details such as the artist, city, time, date, and location.
+
+|Column            |Description         |Column type | 
+ |:---------------|:------------------------|:-------------|
+ | userID     | user identifier| objactive      |
+ | Track   | track title   | objective      |
+ | artist   | artist's name | objective    |
+ | genre      |  | objective    |
+ | City       | user's city |  objective    |
+ | time     |  the exact time the track was played | objective     |
+ | Day      | day of the week | objective    |

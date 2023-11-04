@@ -8,13 +8,13 @@ In this project, we work as a Data Analyst for the music app company. Your respo
 ## DataSets
 |Column            |Description         |Column type | 
  |:---------------|:------------------------|:-------------|
- | userID     | user identifier| objactive      |
- | Track   | track title   | objective      |
- | artist   | artist's name | objective    |
- | genre      |  | objective    |
- | City       | user's city |  objective    |
- | time     |  the exact time the track was played | objective     |
- | Day      | day of the week | objective    |
+ | userID     | user identifier| object      |
+ | Track   | track title   | object     |
+ | artist   | artist's name | object  |
+ | genre      |  | object    |
+ | City       | user's city |  object   |
+ | time     |  the exact time the track was played | object     |
+ | Day      | day of the week | object    |
 
 ## Table of content
 1. Data preprocessing

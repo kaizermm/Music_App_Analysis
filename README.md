@@ -20,5 +20,11 @@ In this project, we work as a Data Analyst for the music app company. Your respo
 1. Data preprocessing
 2. Pandas for Data Analysis
 3. Analyzing Data and Presenting Result
+## Conclusion and Improvement
+Conclusion:
+Our analysis confirmed that user activity varies by day of the week, showing distinct patterns in Springfield and Shelbyville. However, musical preferences remained consistent, with a strong preference for pop music in both cities. The third hypothesis, suggesting significant differences, was not supported. To improve, we should address missing data for a more comprehensive analysis.
+Improvement Area:
+Enhance data completeness by addressing missing values to provide a more robust foundation for future hypotheses and analyses.
+
 
 

@@ -21,6 +21,4 @@ In this project, we work as a Data Analyst for the music app company. Your respo
 2. Pandas for Data Analysis
 3. Analyzing Data and Presenting Result
 
-## Libraries used
-*pandas*
 
